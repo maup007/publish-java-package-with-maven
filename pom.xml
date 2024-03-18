@@ -24,7 +24,7 @@
       <name>GitHub Mani Packages</name>
       <url>https://maven.pkg.github.com/maup007/publish-java-package-with-maven</url>
     </repository>
-  </distributionManagemen>
+  </distributionManagement>
 
   <dependencies>
     <dependency>
