@@ -2,7 +2,7 @@ name: Publish package to GitHub Packages
 on: push
 jobs:
   publish:
-    runs-on: redhat
+    runs-on: [self-hosted, redhat]
     permissions: 
       contents: read
       packages: write 
